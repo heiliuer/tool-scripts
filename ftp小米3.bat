@@ -1,1 +1,1 @@
-start explorer.exe ftp://heiliuer:0923@192.168.88.2:2121
+start explorer.exe ftp://test:1234@192.168.88.2:2121
