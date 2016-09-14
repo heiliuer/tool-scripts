@@ -1,4 +1,4 @@
-一些工具类加脚本
+一些工具类脚本
 windows patch
 linux shell
 python
